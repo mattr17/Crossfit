@@ -1,4 +1,3 @@
-Crossfit
-========
+# Crossfit Journal 
 
 Personal WOD Tracker
